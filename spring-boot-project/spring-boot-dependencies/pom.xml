@@ -158,7 +158,7 @@
 		<rxjava-adapter.version>1.2.1</rxjava-adapter.version>
 		<rxjava2.version>2.2.20</rxjava2.version>
 		<selenium.version>3.14.0</selenium.version>
-		<selenium-htmlunit.version>2.33.0</selenium-htmlunit.version>
+		<selenium-htmlunit.version>3.55.0</selenium-htmlunit.version>
 		<sendgrid.version>4.3.0</sendgrid.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.30</slf4j.version>
@@ -173,7 +173,7 @@
 		<spring-framework.version>${spring.version}</spring-framework.version>
 		<spring-hateoas.version>0.25.2.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.1.13.RELEASE</spring-integration.version>
-		<spring-kafka.version>2.2.14.RELEASE</spring-kafka.version>
+		<spring-kafka.version>2.7.9</spring-kafka.version>
 		<spring-ldap.version>2.3.3.RELEASE</spring-ldap.version>
 		<spring-plugin.version>1.2.0.RELEASE</spring-plugin.version>
 		<spring-restdocs.version>2.0.5.RELEASE</spring-restdocs.version>
