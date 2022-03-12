@@ -34,7 +34,7 @@
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
 		<!-- Dependency versions -->
-		<activemq.version>5.15.13</activemq.version>
+		<activemq.version>5.16.4</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<appengine-sdk.version>1.9.82</appengine-sdk.version>
 		<artemis.version>2.6.4</artemis.version>
@@ -159,7 +159,7 @@
 		<rxjava2.version>2.2.20</rxjava2.version>
 		<selenium.version>3.14.0</selenium.version>
 		<selenium-htmlunit.version>2.33.0</selenium-htmlunit.version>
-		<sendgrid.version>4.3.0</sendgrid.version>
+		<sendgrid.version>4.4.3</sendgrid.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.30</slf4j.version>
 		<snakeyaml.version>1.23</snakeyaml.version>
