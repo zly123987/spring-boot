@@ -80,7 +80,7 @@
 		<httpclient.version>4.5.13</httpclient.version>
 		<httpcore.version>4.4.13</httpcore.version>
 		<infinispan.version>9.4.20.Final</infinispan.version>
-		<influxdb-java.version>2.14</influxdb-java.version>
+		<influxdb-java.version>2.23</influxdb-java.version>
 		<!-- deprecated since 2.1 in favor of "jackson-bom.version" -->
 		<jackson.version>2.9.10.20200824</jackson.version>
 		<jackson-bom.version>${jackson.version}</jackson-bom.version>
@@ -158,7 +158,7 @@
 		<rxjava-adapter.version>1.2.1</rxjava-adapter.version>
 		<rxjava2.version>2.2.20</rxjava2.version>
 		<selenium.version>3.14.0</selenium.version>
-		<selenium-htmlunit.version>2.33.0</selenium-htmlunit.version>
+		<selenium-htmlunit.version>3.55.0</selenium-htmlunit.version>
 		<sendgrid.version>4.3.0</sendgrid.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.30</slf4j.version>
