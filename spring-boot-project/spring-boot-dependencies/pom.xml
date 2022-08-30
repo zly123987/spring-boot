@@ -128,7 +128,7 @@
 		<kafka.version>2.0.1</kafka.version>
 		<kotlin.version>1.2.71</kotlin.version>
 		<lettuce.version>5.1.8.RELEASE</lettuce.version>
-		<liquibase.version>3.6.3</liquibase.version>
+		<liquibase.version>3.8.1</liquibase.version>
 		<log4j2.version>2.11.2</log4j2.version>
 		<logback.version>1.2.3</logback.version>
 		<lombok.version>1.18.16</lombok.version>
@@ -162,7 +162,7 @@
 		<sendgrid.version>4.3.0</sendgrid.version>
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.30</slf4j.version>
-		<snakeyaml.version>1.23</snakeyaml.version>
+		<snakeyaml.version>1.31</snakeyaml.version>
 		<solr.version>7.7.3</solr.version>
 		<!-- deprecated in favor of "spring-framework.version" -->
 		<spring.version>5.1.19.RELEASE</spring.version>
