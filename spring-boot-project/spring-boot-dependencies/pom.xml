@@ -163,7 +163,7 @@
 		<servlet-api.version>4.0.1</servlet-api.version>
 		<slf4j.version>1.7.30</slf4j.version>
 		<snakeyaml.version>1.23</snakeyaml.version>
-		<solr.version>7.7.3</solr.version>
+		<solr.version>9.1.0</solr.version>
 		<!-- deprecated in favor of "spring-framework.version" -->
 		<spring.version>5.1.19.RELEASE</spring.version>
 		<spring-amqp.version>2.1.17.RELEASE</spring-amqp.version>
@@ -190,7 +190,7 @@
 		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>9.0.39</tomcat.version>
+		<tomcat.version>9.0.81</tomcat.version>
 		<unboundid-ldapsdk.version>4.0.14</unboundid-ldapsdk.version>
 		<undertow.version>2.0.32.Final</undertow.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
