@@ -133,7 +133,7 @@
 		<logback.version>1.2.3</logback.version>
 		<lombok.version>1.18.16</lombok.version>
 		<mariadb.version>2.3.0</mariadb.version>
-		<micrometer.version>1.1.19</micrometer.version>
+		<micrometer.version>1.9.16</micrometer.version>
 		<mimepull.version>1.9.13</mimepull.version>
 		<mockito.version>2.23.4</mockito.version>
 		<mongo-driver-reactivestreams.version>1.9.2</mongo-driver-reactivestreams.version>
@@ -166,7 +166,7 @@
 		<solr.version>7.7.3</solr.version>
 		<!-- deprecated in favor of "spring-framework.version" -->
 		<spring.version>5.1.19.RELEASE</spring.version>
-		<spring-amqp.version>2.1.17.RELEASE</spring-amqp.version>
+		<spring-amqp.version>2.4.14</spring-amqp.version>
 		<spring-batch.version>4.1.4.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.7.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Lovelace-SR21</spring-data-releasetrain.version>
