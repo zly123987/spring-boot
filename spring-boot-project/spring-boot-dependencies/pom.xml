@@ -110,7 +110,7 @@
 		<jetty.version>9.4.33.v20201020</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jetty-el.version>8.5.54</jetty-el.version>
-		<jetty-reactive-httpclient.version>1.0.3</jetty-reactive-httpclient.version>
+		<jetty-reactive-httpclient.version>4.0.6</jetty-reactive-httpclient.version>
 		<jmustache.version>1.14</jmustache.version>
 		<jna.version>4.5.2</jna.version>
 		<joda-time.version>2.10.8</joda-time.version>
@@ -192,7 +192,7 @@
 		<thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
 		<tomcat.version>9.0.39</tomcat.version>
 		<unboundid-ldapsdk.version>4.0.14</unboundid-ldapsdk.version>
-		<undertow.version>2.0.32.Final</undertow.version>
+		<undertow.version>2.3.18.Final</undertow.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator-core.version>0.35</webjars-locator-core.version>
 		<woodstox.version>5.0.3</woodstox.version>
