@@ -170,7 +170,7 @@
 		<spring-batch.version>4.1.4.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.7.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Lovelace-SR21</spring-data-releasetrain.version>
-		<spring-framework.version>${spring.version}</spring-framework.version>
+		<spring-framework.version>6.1.14</spring-framework.version>
 		<spring-hateoas.version>0.25.2.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.1.13.RELEASE</spring-integration.version>
 		<spring-kafka.version>2.2.14.RELEASE</spring-kafka.version>
@@ -180,7 +180,7 @@
 		<spring-retry.version>1.2.5.RELEASE</spring-retry.version>
 		<spring-security.version>5.1.13.RELEASE</spring-security.version>
 		<spring-session-bom.version>Bean-SR12</spring-session-bom.version>
-		<spring-ws.version>3.0.10.RELEASE</spring-ws.version>
+		<spring-ws.version>4.0.0</spring-ws.version>
 		<sqlite-jdbc.version>3.25.2</sqlite-jdbc.version>
 		<statsd-client.version>3.1.0</statsd-client.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
@@ -190,7 +190,7 @@
 		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.4.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>9.0.39</tomcat.version>
+		<tomcat.version>9.0.96</tomcat.version>
 		<unboundid-ldapsdk.version>4.0.14</unboundid-ldapsdk.version>
 		<undertow.version>2.0.32.Final</undertow.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
